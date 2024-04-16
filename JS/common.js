@@ -13,7 +13,7 @@ mFn.qs(".gnb").innerHTML = `
 ${
     Object.keys(cmData.gnbData).map((v) =>`
     <li>
-      <h2><a href="#">${v}</a></h2>
+      <h2><a href="https://alrang0929.github.io/KJH-PJ-LIVE/sub_ourbland">${v}</a></h2>
       ${
         cmData.gnbData[v]=="없음"?"":`
         <div class="submenu">
