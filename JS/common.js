@@ -19,7 +19,7 @@ ${
         <div class="submenu">
                   <ol>
                   ${cmData.gnbData[v].map((vSub)=>`
-                  <li><a href="#">${vSub}</a></li>
+                  <li><a href="https://alrang0929.github.io/KJH-PJ-LIVE/sub_ourbland">${vSub}</a></li>
                   `).join("")}
                   </ol>
                 </div>`}
